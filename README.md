@@ -134,22 +134,7 @@ CAC & LTV analysis
 Advanced SaaS operational KPIs
 Interactive navigation
 Enhanced executive design polish
-Screenshots
-Executive Dashboard
-
-(Add screenshot here)
-
-Income Statement
-
-(Add screenshot here)
-
-Balance Sheet
-
-(Add screenshot here)
-
-Cash Flow Statement
-
-(Add screenshot here)
+Screenshots of Executive Dashboard, Balance Sheet, Income Statement and Cash Flow Statement attached.
 
 Learning Outcomes
 
